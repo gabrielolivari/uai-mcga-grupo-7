@@ -1,0 +1,23 @@
+{
+  "name": "uai-mcga-grupo-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielolivari/uai-mcga-grupo-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielolivari/uai-mcga-grupo-7/issues"
+  },
+  "homepage": "https://github.com/gabrielolivari/uai-mcga-grupo-7#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
